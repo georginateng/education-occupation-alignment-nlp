@@ -4,7 +4,7 @@ This project investigates the alignment between university curricula and occupat
 
 ## Data Sources
 
-- KERIS University Curriculum Dataset
+- KERIS University Curriculum Dataset (2022)
 - Career.go.kr Occupational Information API
 
 ## Methodology
@@ -16,5 +16,6 @@ This project investigates the alignment between university curricula and occupat
 
 ## Current Status
 
-Curriculum data preparation completed.
-Occupation data collection in progress.
+- Department mapping completed
+- Curriculum data preparation completed
+- Occupation data collection pending API approval

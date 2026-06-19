@@ -26,12 +26,9 @@ Processed data files used for analysis are included in the `data/` folder.
 ## Repository Structure
 
 ```text
-code/
-  NLP_education_occupation_analysis.ipynb       # Main analysis notebook
-
 data/
   domain_corpora.csv   # Cleaned educational competency data
-  occupation_clean.csv  # Occupational competency descriptions
+  occupation_clean.csv  # Processed occupational competency descriptions
 
-figures/
+outputs/
   heatmap.png    # Main similarity heatmap
